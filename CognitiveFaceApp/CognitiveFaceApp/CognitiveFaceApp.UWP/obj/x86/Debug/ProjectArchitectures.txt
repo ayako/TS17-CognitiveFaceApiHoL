@@ -1,0 +1,2 @@
+C:\Users\ayomori\Documents\GitHub\TS17-CognitiveFaceApiHoL\CognitiveFaceApp\CognitiveFaceApp\CognitiveFaceApp.UWP\CognitiveFaceApp.UWP.csproj;x86
+C:\Users\ayomori\Documents\GitHub\TS17-CognitiveFaceApiHoL\CognitiveFaceApp\CognitiveFaceApp\CognitiveFaceApp\CognitiveFaceApp.csproj;neutral
